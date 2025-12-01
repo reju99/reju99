@@ -1,7 +1,7 @@
 ## 
-freelancer
-worked for: [goofy](twitch.tv/goofiacz) (discord developer)
-languages: js, c++, py, rust
+freelancer <br>
+worked for: [goofy](twitch.tv/goofiacz) (discord developer) <br>
+languages: js, c++, py, rust <br>
 
 xoc master
 i7 14700kf 57/42/50
