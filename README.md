@@ -9,5 +9,4 @@ z690a pro <br>
 3900 cl14 cr1 / gear 1 / realtime <br>
 4070 super <br>
 
-bmw e90 320i n46b20 owner <br>
-currently learning ecu/mapping <br>
+currently learning bmw ecu/mapping <br>
