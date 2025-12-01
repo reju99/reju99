@@ -1,16 +1,13 @@
-## Hi there 👋
+## 
+freelancer
+worked for: [goofy](twitch.tv/goofiacz) (discord developer)
+languages: js, c++, py, rust
 
-<!--
-**reju99/reju99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+xoc master
+i7 14700kf 57/42/50
+z690a pro
+3900 cl14 cr1 / gear 1 / realtime
+rtx 4070 super
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+bmw e90 i320 n46b20 owner
+currently learning ecu/mapping
