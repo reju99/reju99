@@ -1,6 +1,6 @@
 ## 
 freelancer <br>
-worked for: [goofy](www.twitch.tv/goofiacz) (discord developer) <br>
+worked for: [goofy](https://www.twitch.tv/goofiacz) (discord developer) <br>
 languages: js, c++, py, rust <br>
 
 xoc master <br>
