@@ -3,11 +3,11 @@ freelancer <br>
 worked for: [goofy](twitch.tv/goofiacz) (discord developer) <br>
 languages: js, c++, py, rust <br>
 
-xoc master
-i7 14700kf 57/42/50
-z690a pro
-3900 cl14 cr1 / gear 1 / realtime
-rtx 4070 super
+xoc master <br>
+i7 14700kf 57/42/50 <br>
+z690a pro <br>
+3900 cl14 cr1 / gear 1 / realtime <br>
+rtx 4070 super <br>
 
-bmw e90 i320 n46b20 owner
-currently learning ecu/mapping
+bmw e90 i320 n46b20 owner <br>
+currently learning ecu/mapping <br>
